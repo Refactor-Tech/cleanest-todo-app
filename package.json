@@ -1,0 +1,16 @@
+{
+  "name": "tasky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": false,
+  "workspaces": {
+    "packages": [
+      "apps/*"
+    ]
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "Matheus Pavanelli <mspavanelli@gmail.com>",
+  "license": "MIT"
+}
